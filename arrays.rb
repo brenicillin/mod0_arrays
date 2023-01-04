@@ -30,3 +30,10 @@ puts raining
 #with the first element being index position 0, and counting to
 #the right in 1 unit intervals [0, 1, 2, 3]. In the array cities
 #above, Groton would be index position 2.
+
+
+#The additional array method I chose to include was .take(n). This 
+#method returns the first (n) elements of the array.
+
+sample = [1, 2, 3, 4]
+sample.take(3)
