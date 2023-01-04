@@ -25,3 +25,8 @@ puts temperatures
 
 raining.unshift(TRUE)
 puts raining
+
+#Index position is the location of the element within the array, 
+#with the first element being index position 0, and counting to
+#the right in 1 unit intervals [0, 1, 2, 3]. In the array cities
+#above, Groton would be index position 2.
