@@ -1,4 +1,4 @@
-names = [John, Jimmy, Sally, Sue]
-ages = [14, 16, 15, 17]
-cash = [5.5, 7.25, 3.0, 4.3]
-graduate = [True, False, True, True]
+cities = ["San Diego", "Norfolk", "Groton", "Tampa"]
+temperatures = [72, 42, 12, 67]
+population = [1.38, 1.73, 0.38, 1.48]
+raining = [False, True, True, False]
